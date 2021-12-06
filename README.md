@@ -1,4 +1,4 @@
-# JSON Server Posts API
+# JSON Server Buy Nothing API
 
 To run this project locally:
 
